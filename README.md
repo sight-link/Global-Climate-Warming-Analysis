@@ -20,12 +20,6 @@ Data coverage: Monthly global land & combined land-ocean temperature measurement
 6. Quantify correlation between raw temperature values and measurement uncertainty
 7. Build interactive Plotly dashboards for dynamic trend exploration
 
-## Repository File Structure
-├── Climate_Warming_Analysis.ipynb # Full Kaggle/GitHub runnable notebook
-├── README.md # Project introduction & documentation
-└── climate-change-earth-surface-temperature-data/ # Local downloaded dataset folder
-└── GlobalTemperatures.csv
-
 ## Environment Dependencies
 Install required packages before execution:
 ```bash
