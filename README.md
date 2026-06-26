@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-green.svg)
 ![Libraries](https://img.shields.io/badge/Libraries-pandas%20%7C%20numpy%20%7C%20matplotlib%20%7C%20seaborn%20%7C%20plotly-orange)
 ![Last Commit](https://img.shields.io/github/last-commit/sight-link/Global-Climate-Warming-Analysis)
+
 Data-driven analysis of 265-year global surface temperature records (1750–2015) from Berkeley Earth, hosted on Kaggle.
 
 ## Dataset Source
