@@ -30,8 +30,15 @@ Install required packages before execution:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn scipy plotly
 
-
-
+## 📊 Key Visualizations
+**Global Land vs Land-Ocean Temperature Trends (1850–2015)**
+![Temperature Trends](images/temperature_trends.png)
+**Climate Warming Stripes**
+![Warming Stripes](images/warming_stripes.png)
+**Monthly Temperature Anomaly Distribution by Decade**
+![Decadal Boxplot](images/decadal_boxplot.png)
+**Global Land Temperature Anomalies (1750–2015)**
+!Temperature_Anomaly](images/Temperature_Anomaly.png)
 
 ## How to Run
 
