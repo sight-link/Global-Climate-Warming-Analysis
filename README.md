@@ -36,14 +36,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy plotly
 !Temperature_Anomaly](images/Temperature_Anomaly.png)
 
 ## How to Run
-
-Option 1: Kaggle Notebook (Recommended)
-Create a new Kaggle Notebook
-Add dataset: climate-change-earth-surface-temperature-data via Kaggle sidebar "Add data"
-Copy all code from Climate_Warming_Analysis.ipynb into notebook cells
-Execute sequentially (dataset path is pre-configured for Kaggle cloud environment)
-
-Option 2: Local Machine / GitHub
 Download and unzip the Kaggle dataset into your project folder
 Switch dataset loading code to the local file path (comment/uncomment path block)
 Run the notebook or Python script locally
@@ -72,4 +64,3 @@ Decade categorical feature creation for grouped analysis
 License
 Dataset: CC BY-NC-SA 4.0 (Berkeley Earth)
 Project Code: MIT License
-plaintext
